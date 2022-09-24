@@ -31,4 +31,4 @@ I am enthusiastic curious induvial who is looking to collaborate and want to wor
 ---
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhisek-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/abhisek-bajracharya)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhisek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhisek-bajracharya/)
